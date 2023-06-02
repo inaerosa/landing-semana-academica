@@ -1,0 +1,17 @@
+.TelaInicial{
+    background-color: #121212;
+    padding-bottom: 0;
+    height: 70vh;
+    text-align: center;
+    bottom: 0;
+    padding-bottom: 10%;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('./../assets/layer.svg');
+            
+    background-repeat: no-repeat;
+    background-position: bottom;
+}

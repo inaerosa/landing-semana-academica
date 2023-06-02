@@ -1,0 +1,17 @@
+#menu {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+
+}
+
+#menu button {
+    background-color: #121212;
+    border: none;
+    font-family: 'Jura', sans-serif
+
+}
+#menu button:hover{
+   cursor: pointer;
+   text-decoration: underline;
+}
