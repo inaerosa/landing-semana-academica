@@ -3,12 +3,12 @@ const FirstDayContent = () => {
     <p>Mini-cursos</p>
 
     <div className="checkbox-inputs">
-    <input type="checkbox" name="teste" id="teste" />
+    <input type="radio" name="teste" id="teste" />
       <label>Introdução à impressão 3D  </label>  
     </div>
     <div className="checkbox-inputs">
-      <input type="checkbox" name="teste" id="teste" />
-      <label>Front-end (react)</label>
+      <input type="radio" name="teste" id="teste" />
+      <label>Introdução ao Desenvolvimento Web com React</label>
     </div>
   </>
 }
